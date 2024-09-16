@@ -1,10 +1,11 @@
 import os
 import sys
-from src.exception import CustomExection
-from src.logger import logging
+from exception import CustomExection
+from  logger import logging
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from dataclasses import dataclass
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 
 @dataclass

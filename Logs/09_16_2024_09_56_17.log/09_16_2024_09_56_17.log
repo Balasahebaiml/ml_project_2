@@ -1,0 +1,5 @@
+[2024-09-16 09:56:23,248] 51 root-INFO-loggin is stared there
+[2024-09-16 09:56:23,248] 25 root-INFO-Enther the data ingestion methods or components
+[2024-09-16 09:56:23,258] 29 root-INFO-Read the data from dataset
+[2024-09-16 09:56:23,269] 33 root-INFO-Train and test slipt data
+[2024-09-16 09:56:23,278] 38 root-INFO-Ingestion activite is compeleted
